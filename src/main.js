@@ -47,7 +47,7 @@ console.log(`${name} is in sixties: ${isInSixties}`);
 // 15) x++ is increment operator, it increments the value of x by 1, x-- is decrement operator, it decrements the value of x by 1.
 
 // 16) ++x is increment operator, it increments the value of x by 1 and returns the new value(x),increment happens and then value is returned, x++ is increment operator, it increments the value of x by 1, increment happens after value is used.
-//  17) undefined.
+// 17) undefined.
 
 // 18)
 
@@ -58,7 +58,7 @@ console.log("num = num2:", num == num2 ? true : false);
 // 19) tu mgzavrebis raodenoba ar aris 30 avtobusi ar gava am shemtxvevashi passengerNum ar udris 30_s da if statementi gaeshveba radgan piroba true aris.
 let passengerNum = 21;
 if (passengerNum != 30) {
-  console.log("avtibusi ar gava");
+    console.log("avtibusi ar gava");
 }
 
 // 20) stringis da numberis damatebisas number orive shemtxvevashi (number + string, string + number) gadaiqceva stringad da sheertdeba meore stringtan/miewebeba.
