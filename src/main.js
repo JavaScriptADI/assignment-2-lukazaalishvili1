@@ -37,7 +37,7 @@ amitom age unda gadaviyvanot number tipad da shemdeg davumatot ricxvi magalitad:
 // 12)
 let name = prompt("What is your name?");
 let age = Number(prompt("How old are you?"));
-let isInSixties = age > 55 && age < 65; // finish the code so that it prints true if the age is in 60s
+let isInSixties = age >=60  && age < 70; // finish the code so that it prints true if the age is in 60s
 console.log(`${name} is in sixties: ${isInSixties}`);
 
 // 13) value of x is 6.
